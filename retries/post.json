@@ -1,0 +1,9 @@
+{
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "method": "POST",
+    "body": {
+        "userId": 10,
+        "title": "Title",
+        "body": "message"
+      }
+}
